@@ -1,0 +1,7 @@
+sigma,metrics,frontier
+0.6,3,known_kernel
+0.6,4,known_kernel
+1.2,3,known_kernel
+1.2,4,known_kernel
+3.0,3,blend1;known_kernel
+3.0,4,blend1;cfg1_full;known_kernel
