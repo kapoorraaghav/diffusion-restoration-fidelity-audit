@@ -1,0 +1,13 @@
+series,domain,sigma,n,objective_count,actions,frontier
+matched_domain_comparison,div2k,0.6,99,3,input;cleaner;cfg1_full;cfg6_full;blend1,input
+matched_domain_comparison,div2k,0.6,99,4,input;cleaner;cfg1_full;cfg6_full;blend1,input
+matched_domain_comparison,div2k,1.2,99,3,input;cleaner;cfg1_full;cfg6_full;blend1,input;blend1
+matched_domain_comparison,div2k,1.2,99,4,input;cleaner;cfg1_full;cfg6_full;blend1,input;cfg1_full;blend1
+matched_domain_comparison,div2k,3.0,99,3,input;cleaner;cfg1_full;cfg6_full;blend1,cleaner;blend1
+matched_domain_comparison,div2k,3.0,99,4,input;cleaner;cfg1_full;cfg6_full;blend1,cleaner;cfg1_full;blend1
+matched_domain_comparison,imagenet,0.6,100,3,input;cleaner;cfg1_full;cfg6_full;blend1,input
+matched_domain_comparison,imagenet,0.6,100,4,input;cleaner;cfg1_full;cfg6_full;blend1,input
+matched_domain_comparison,imagenet,1.2,100,3,input;cleaner;cfg1_full;cfg6_full;blend1,input
+matched_domain_comparison,imagenet,1.2,100,4,input;cleaner;cfg1_full;cfg6_full;blend1,input
+matched_domain_comparison,imagenet,3.0,100,3,input;cleaner;cfg1_full;cfg6_full;blend1,cleaner;blend1
+matched_domain_comparison,imagenet,3.0,100,4,input;cleaner;cfg1_full;cfg6_full;blend1,cleaner;blend1
