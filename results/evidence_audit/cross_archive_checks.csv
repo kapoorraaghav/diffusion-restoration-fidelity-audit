@@ -1,0 +1,17 @@
+check,domain,n,psnr,ssim,lpips,max_parity_error
+archived vs input-audit cleaner,ffhq,200,0.0,0.0,0.0,
+sharpen reference hashes/cleaner parity,ffhq,200,,,,7.105427357601002e-15
+archived vs input-audit cleaner,div2k,99,0.0,0.0,0.0,
+sharpen reference hashes/cleaner parity,div2k,99,,,,7.105427357601002e-15
+archived vs input-audit cleaner,urban100,100,0.0,0.0,0.0,
+sharpen reference hashes/cleaner parity,urban100,100,,,,7.105427357601002e-15
+archived vs input-audit cleaner,imagenet,1000,0.0,0.0,0.0,
+sharpen reference hashes/cleaner parity,imagenet,1000,,,,7.105427357601002e-15
+severity reference hashes/mild cleaner parity,div2k,99,,,,7.105427357601002e-15
+DIV2K mild replay vs original cleaner,div2k,99,0.0,0.0,0.0,
+DIV2K mild replay vs original cfg1_raw,div2k,99,0.0,0.0,0.0,
+DIV2K mild replay vs original cfg6_raw,div2k,99,0.0,0.0,0.0,
+DIV2K mild replay vs original cfg1_full,div2k,99,0.0,0.0,8.940696716308594e-08,
+DIV2K mild replay vs original cfg6_full,div2k,99,0.0,0.0,2.9802322359939737e-08,
+DIV2K mild replay vs original blend1,div2k,99,0.0,0.0,9.93410742555767e-09,
+severity reference hashes/mild cleaner parity,div2k,99,,,,7.105427357601002e-15
