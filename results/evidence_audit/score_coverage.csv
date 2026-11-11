@@ -1,0 +1,189 @@
+domain,sigma,branch,candidate,n,metrics,extra_output_only,score_archive
+ffhq,0.6,degraded,blend_cfg1_beta0.5,200,psnr/ssim/lpips,mse/false_edge_proxy/valid_edge_recall,p2w_ffhq_full_v1_CROSS_tables.zip
+ffhq,0.6,degraded,blend_cfg6_beta0.5,200,psnr/ssim/lpips,mse/false_edge_proxy/valid_edge_recall,p2w_ffhq_full_v1_CROSS_tables.zip
+ffhq,0.6,degraded,cfg1_alpha0,200,psnr/ssim/lpips,mse/false_edge_proxy/valid_edge_recall,p2w_ffhq_full_v1_CROSS_tables.zip
+ffhq,0.6,degraded,cfg1_alpha0.5,200,psnr/ssim/lpips,mse/false_edge_proxy/valid_edge_recall,p2w_ffhq_full_v1_CROSS_tables.zip
+ffhq,0.6,degraded,cfg1_alpha1,200,psnr/ssim/lpips,mse/false_edge_proxy/valid_edge_recall,p2w_ffhq_full_v1_CROSS_tables.zip
+ffhq,0.6,degraded,cfg6_alpha0,200,psnr/ssim/lpips,mse/false_edge_proxy/valid_edge_recall,p2w_ffhq_full_v1_CROSS_tables.zip
+ffhq,0.6,degraded,cfg6_alpha0.5,200,psnr/ssim/lpips,mse/false_edge_proxy/valid_edge_recall,p2w_ffhq_full_v1_CROSS_tables.zip
+ffhq,0.6,degraded,cfg6_alpha1,200,psnr/ssim/lpips,mse/false_edge_proxy/valid_edge_recall,p2w_ffhq_full_v1_CROSS_tables.zip
+ffhq,0.6,degraded,cleaner,200,psnr/ssim/lpips,mse/false_edge_proxy/valid_edge_recall,p2w_ffhq_full_v1_CROSS_tables.zip
+ffhq,0.6,oracle,cfg1_alpha0,20,psnr/ssim/lpips,mse/false_edge_proxy/valid_edge_recall,p2w_ffhq_full_v1_CROSS_tables.zip
+ffhq,0.6,oracle,cfg1_alpha0.5,20,psnr/ssim/lpips,mse/false_edge_proxy/valid_edge_recall,p2w_ffhq_full_v1_CROSS_tables.zip
+ffhq,0.6,oracle,cfg1_alpha1,20,psnr/ssim/lpips,mse/false_edge_proxy/valid_edge_recall,p2w_ffhq_full_v1_CROSS_tables.zip
+ffhq,0.6,oracle,cfg6_alpha0,20,psnr/ssim/lpips,mse/false_edge_proxy/valid_edge_recall,p2w_ffhq_full_v1_CROSS_tables.zip
+ffhq,0.6,oracle,cfg6_alpha0.5,20,psnr/ssim/lpips,mse/false_edge_proxy/valid_edge_recall,p2w_ffhq_full_v1_CROSS_tables.zip
+ffhq,0.6,oracle,cfg6_alpha1,20,psnr/ssim/lpips,mse/false_edge_proxy/valid_edge_recall,p2w_ffhq_full_v1_CROSS_tables.zip
+ffhq,0.6,oracle,cleaner,20,psnr/ssim/lpips,mse/false_edge_proxy/valid_edge_recall,p2w_ffhq_full_v1_CROSS_tables.zip
+ffhq,0.6,restored,blend_cfg1_beta0.5,200,psnr/ssim/lpips,mse/false_edge_proxy/valid_edge_recall,p2w_ffhq_full_v1_CROSS_tables.zip
+ffhq,0.6,restored,blend_cfg6_beta0.5,200,psnr/ssim/lpips,mse/false_edge_proxy/valid_edge_recall,p2w_ffhq_full_v1_CROSS_tables.zip
+ffhq,0.6,restored,cfg1_alpha0,200,psnr/ssim/lpips,mse/false_edge_proxy/valid_edge_recall,p2w_ffhq_full_v1_CROSS_tables.zip
+ffhq,0.6,restored,cfg1_alpha0.5,200,psnr/ssim/lpips,mse/false_edge_proxy/valid_edge_recall,p2w_ffhq_full_v1_CROSS_tables.zip
+ffhq,0.6,restored,cfg1_alpha1,200,psnr/ssim/lpips,mse/false_edge_proxy/valid_edge_recall,p2w_ffhq_full_v1_CROSS_tables.zip
+ffhq,0.6,restored,cfg6_alpha0,200,psnr/ssim/lpips,mse/false_edge_proxy/valid_edge_recall,p2w_ffhq_full_v1_CROSS_tables.zip
+ffhq,0.6,restored,cfg6_alpha0.5,200,psnr/ssim/lpips,mse/false_edge_proxy/valid_edge_recall,p2w_ffhq_full_v1_CROSS_tables.zip
+ffhq,0.6,restored,cfg6_alpha1,200,psnr/ssim/lpips,mse/false_edge_proxy/valid_edge_recall,p2w_ffhq_full_v1_CROSS_tables.zip
+ffhq,0.6,restored,cleaner,200,psnr/ssim/lpips,mse/false_edge_proxy/valid_edge_recall,p2w_ffhq_full_v1_CROSS_tables.zip
+ffhq,0.6,deterministic,input/cleaner,200,psnr/ssim/lpips/dists,,p2input_all_full_v1_FOCUS_FINAL.zip
+ffhq,0.6,deterministic cleaner sharpening,unsharp_a0.25_r0.8,200,psnr/ssim/lpips,,p2focus_sharpen_final_ffhq_full_v1_FOCUS_FINAL.zip
+ffhq,0.6,deterministic cleaner sharpening,unsharp_a0.25_r1.5,200,psnr/ssim/lpips,,p2focus_sharpen_final_ffhq_full_v1_FOCUS_FINAL.zip
+ffhq,0.6,deterministic cleaner sharpening,unsharp_a0.25_r2.5,200,psnr/ssim/lpips,,p2focus_sharpen_final_ffhq_full_v1_FOCUS_FINAL.zip
+ffhq,0.6,deterministic cleaner sharpening,unsharp_a0.5_r0.8,200,psnr/ssim/lpips,,p2focus_sharpen_final_ffhq_full_v1_FOCUS_FINAL.zip
+ffhq,0.6,deterministic cleaner sharpening,unsharp_a0.5_r1.5,200,psnr/ssim/lpips,,p2focus_sharpen_final_ffhq_full_v1_FOCUS_FINAL.zip
+ffhq,0.6,deterministic cleaner sharpening,unsharp_a0.5_r2.5,200,psnr/ssim/lpips,,p2focus_sharpen_final_ffhq_full_v1_FOCUS_FINAL.zip
+ffhq,0.6,deterministic cleaner sharpening,unsharp_a0.75_r0.8,200,psnr/ssim/lpips,,p2focus_sharpen_final_ffhq_full_v1_FOCUS_FINAL.zip
+ffhq,0.6,deterministic cleaner sharpening,unsharp_a0.75_r1.5,200,psnr/ssim/lpips,,p2focus_sharpen_final_ffhq_full_v1_FOCUS_FINAL.zip
+ffhq,0.6,deterministic cleaner sharpening,unsharp_a0.75_r2.5,200,psnr/ssim/lpips,,p2focus_sharpen_final_ffhq_full_v1_FOCUS_FINAL.zip
+ffhq,0.6,deterministic cleaner sharpening,unsharp_a1.5_r0.8,200,psnr/ssim/lpips,,p2focus_sharpen_final_ffhq_full_v1_FOCUS_FINAL.zip
+ffhq,0.6,deterministic cleaner sharpening,unsharp_a1.5_r1.5,200,psnr/ssim/lpips,,p2focus_sharpen_final_ffhq_full_v1_FOCUS_FINAL.zip
+ffhq,0.6,deterministic cleaner sharpening,unsharp_a1.5_r2.5,200,psnr/ssim/lpips,,p2focus_sharpen_final_ffhq_full_v1_FOCUS_FINAL.zip
+ffhq,0.6,deterministic cleaner sharpening,unsharp_a1_r0.8,200,psnr/ssim/lpips,,p2focus_sharpen_final_ffhq_full_v1_FOCUS_FINAL.zip
+ffhq,0.6,deterministic cleaner sharpening,unsharp_a1_r1.5,200,psnr/ssim/lpips,,p2focus_sharpen_final_ffhq_full_v1_FOCUS_FINAL.zip
+ffhq,0.6,deterministic cleaner sharpening,unsharp_a1_r2.5,200,psnr/ssim/lpips,,p2focus_sharpen_final_ffhq_full_v1_FOCUS_FINAL.zip
+div2k,0.6,degraded,blend_cfg1_beta0.5,99,psnr/ssim/lpips,mse/false_edge_proxy/valid_edge_recall,p2w_div2k_full_v1_CROSS_tables.zip
+div2k,0.6,degraded,blend_cfg6_beta0.5,99,psnr/ssim/lpips,mse/false_edge_proxy/valid_edge_recall,p2w_div2k_full_v1_CROSS_tables.zip
+div2k,0.6,degraded,cfg1_alpha0,99,psnr/ssim/lpips,mse/false_edge_proxy/valid_edge_recall,p2w_div2k_full_v1_CROSS_tables.zip
+div2k,0.6,degraded,cfg1_alpha0.5,99,psnr/ssim/lpips,mse/false_edge_proxy/valid_edge_recall,p2w_div2k_full_v1_CROSS_tables.zip
+div2k,0.6,degraded,cfg1_alpha1,99,psnr/ssim/lpips,mse/false_edge_proxy/valid_edge_recall,p2w_div2k_full_v1_CROSS_tables.zip
+div2k,0.6,degraded,cfg6_alpha0,99,psnr/ssim/lpips,mse/false_edge_proxy/valid_edge_recall,p2w_div2k_full_v1_CROSS_tables.zip
+div2k,0.6,degraded,cfg6_alpha0.5,99,psnr/ssim/lpips,mse/false_edge_proxy/valid_edge_recall,p2w_div2k_full_v1_CROSS_tables.zip
+div2k,0.6,degraded,cfg6_alpha1,99,psnr/ssim/lpips,mse/false_edge_proxy/valid_edge_recall,p2w_div2k_full_v1_CROSS_tables.zip
+div2k,0.6,degraded,cleaner,99,psnr/ssim/lpips,mse/false_edge_proxy/valid_edge_recall,p2w_div2k_full_v1_CROSS_tables.zip
+div2k,0.6,oracle,cfg1_alpha0,20,psnr/ssim/lpips,mse/false_edge_proxy/valid_edge_recall,p2w_div2k_full_v1_CROSS_tables.zip
+div2k,0.6,oracle,cfg1_alpha0.5,20,psnr/ssim/lpips,mse/false_edge_proxy/valid_edge_recall,p2w_div2k_full_v1_CROSS_tables.zip
+div2k,0.6,oracle,cfg1_alpha1,20,psnr/ssim/lpips,mse/false_edge_proxy/valid_edge_recall,p2w_div2k_full_v1_CROSS_tables.zip
+div2k,0.6,oracle,cfg6_alpha0,20,psnr/ssim/lpips,mse/false_edge_proxy/valid_edge_recall,p2w_div2k_full_v1_CROSS_tables.zip
+div2k,0.6,oracle,cfg6_alpha0.5,20,psnr/ssim/lpips,mse/false_edge_proxy/valid_edge_recall,p2w_div2k_full_v1_CROSS_tables.zip
+div2k,0.6,oracle,cfg6_alpha1,20,psnr/ssim/lpips,mse/false_edge_proxy/valid_edge_recall,p2w_div2k_full_v1_CROSS_tables.zip
+div2k,0.6,oracle,cleaner,20,psnr/ssim/lpips,mse/false_edge_proxy/valid_edge_recall,p2w_div2k_full_v1_CROSS_tables.zip
+div2k,0.6,restored,blend_cfg1_beta0.5,99,psnr/ssim/lpips,mse/false_edge_proxy/valid_edge_recall,p2w_div2k_full_v1_CROSS_tables.zip
+div2k,0.6,restored,blend_cfg6_beta0.5,99,psnr/ssim/lpips,mse/false_edge_proxy/valid_edge_recall,p2w_div2k_full_v1_CROSS_tables.zip
+div2k,0.6,restored,cfg1_alpha0,99,psnr/ssim/lpips,mse/false_edge_proxy/valid_edge_recall,p2w_div2k_full_v1_CROSS_tables.zip
+div2k,0.6,restored,cfg1_alpha0.5,99,psnr/ssim/lpips,mse/false_edge_proxy/valid_edge_recall,p2w_div2k_full_v1_CROSS_tables.zip
+div2k,0.6,restored,cfg1_alpha1,99,psnr/ssim/lpips,mse/false_edge_proxy/valid_edge_recall,p2w_div2k_full_v1_CROSS_tables.zip
+div2k,0.6,restored,cfg6_alpha0,99,psnr/ssim/lpips,mse/false_edge_proxy/valid_edge_recall,p2w_div2k_full_v1_CROSS_tables.zip
+div2k,0.6,restored,cfg6_alpha0.5,99,psnr/ssim/lpips,mse/false_edge_proxy/valid_edge_recall,p2w_div2k_full_v1_CROSS_tables.zip
+div2k,0.6,restored,cfg6_alpha1,99,psnr/ssim/lpips,mse/false_edge_proxy/valid_edge_recall,p2w_div2k_full_v1_CROSS_tables.zip
+div2k,0.6,restored,cleaner,99,psnr/ssim/lpips,mse/false_edge_proxy/valid_edge_recall,p2w_div2k_full_v1_CROSS_tables.zip
+div2k,0.6,deterministic,input/cleaner,99,psnr/ssim/lpips/dists,,p2input_all_full_v1_FOCUS_FINAL.zip
+div2k,0.6,deterministic cleaner sharpening,unsharp_a0.25_r0.8,99,psnr/ssim/lpips,,p2focus_div2k_full_v1_FOCUS_FINAL.zip
+div2k,0.6,deterministic cleaner sharpening,unsharp_a0.25_r1.5,99,psnr/ssim/lpips,,p2focus_div2k_full_v1_FOCUS_FINAL.zip
+div2k,0.6,deterministic cleaner sharpening,unsharp_a0.25_r2.5,99,psnr/ssim/lpips,,p2focus_div2k_full_v1_FOCUS_FINAL.zip
+div2k,0.6,deterministic cleaner sharpening,unsharp_a0.5_r0.8,99,psnr/ssim/lpips,,p2focus_div2k_full_v1_FOCUS_FINAL.zip
+div2k,0.6,deterministic cleaner sharpening,unsharp_a0.5_r1.5,99,psnr/ssim/lpips,,p2focus_div2k_full_v1_FOCUS_FINAL.zip
+div2k,0.6,deterministic cleaner sharpening,unsharp_a0.5_r2.5,99,psnr/ssim/lpips,,p2focus_div2k_full_v1_FOCUS_FINAL.zip
+div2k,0.6,deterministic cleaner sharpening,unsharp_a0.75_r0.8,99,psnr/ssim/lpips,,p2focus_div2k_full_v1_FOCUS_FINAL.zip
+div2k,0.6,deterministic cleaner sharpening,unsharp_a0.75_r1.5,99,psnr/ssim/lpips,,p2focus_div2k_full_v1_FOCUS_FINAL.zip
+div2k,0.6,deterministic cleaner sharpening,unsharp_a0.75_r2.5,99,psnr/ssim/lpips,,p2focus_div2k_full_v1_FOCUS_FINAL.zip
+div2k,0.6,deterministic cleaner sharpening,unsharp_a1.5_r0.8,99,psnr/ssim/lpips,,p2focus_div2k_full_v1_FOCUS_FINAL.zip
+div2k,0.6,deterministic cleaner sharpening,unsharp_a1.5_r1.5,99,psnr/ssim/lpips,,p2focus_div2k_full_v1_FOCUS_FINAL.zip
+div2k,0.6,deterministic cleaner sharpening,unsharp_a1.5_r2.5,99,psnr/ssim/lpips,,p2focus_div2k_full_v1_FOCUS_FINAL.zip
+div2k,0.6,deterministic cleaner sharpening,unsharp_a1_r0.8,99,psnr/ssim/lpips,,p2focus_div2k_full_v1_FOCUS_FINAL.zip
+div2k,0.6,deterministic cleaner sharpening,unsharp_a1_r1.5,99,psnr/ssim/lpips,,p2focus_div2k_full_v1_FOCUS_FINAL.zip
+div2k,0.6,deterministic cleaner sharpening,unsharp_a1_r2.5,99,psnr/ssim/lpips,,p2focus_div2k_full_v1_FOCUS_FINAL.zip
+urban100,0.6,degraded,blend_cfg1_beta0.5,100,psnr/ssim/lpips,mse/false_edge_proxy/valid_edge_recall,p2w_urban100_full_v1_CROSS_tables.zip
+urban100,0.6,degraded,blend_cfg6_beta0.5,100,psnr/ssim/lpips,mse/false_edge_proxy/valid_edge_recall,p2w_urban100_full_v1_CROSS_tables.zip
+urban100,0.6,degraded,cfg1_alpha0,100,psnr/ssim/lpips,mse/false_edge_proxy/valid_edge_recall,p2w_urban100_full_v1_CROSS_tables.zip
+urban100,0.6,degraded,cfg1_alpha0.5,100,psnr/ssim/lpips,mse/false_edge_proxy/valid_edge_recall,p2w_urban100_full_v1_CROSS_tables.zip
+urban100,0.6,degraded,cfg1_alpha1,100,psnr/ssim/lpips,mse/false_edge_proxy/valid_edge_recall,p2w_urban100_full_v1_CROSS_tables.zip
+urban100,0.6,degraded,cfg6_alpha0,100,psnr/ssim/lpips,mse/false_edge_proxy/valid_edge_recall,p2w_urban100_full_v1_CROSS_tables.zip
+urban100,0.6,degraded,cfg6_alpha0.5,100,psnr/ssim/lpips,mse/false_edge_proxy/valid_edge_recall,p2w_urban100_full_v1_CROSS_tables.zip
+urban100,0.6,degraded,cfg6_alpha1,100,psnr/ssim/lpips,mse/false_edge_proxy/valid_edge_recall,p2w_urban100_full_v1_CROSS_tables.zip
+urban100,0.6,degraded,cleaner,100,psnr/ssim/lpips,mse/false_edge_proxy/valid_edge_recall,p2w_urban100_full_v1_CROSS_tables.zip
+urban100,0.6,oracle,cfg1_alpha0,20,psnr/ssim/lpips,mse/false_edge_proxy/valid_edge_recall,p2w_urban100_full_v1_CROSS_tables.zip
+urban100,0.6,oracle,cfg1_alpha0.5,20,psnr/ssim/lpips,mse/false_edge_proxy/valid_edge_recall,p2w_urban100_full_v1_CROSS_tables.zip
+urban100,0.6,oracle,cfg1_alpha1,20,psnr/ssim/lpips,mse/false_edge_proxy/valid_edge_recall,p2w_urban100_full_v1_CROSS_tables.zip
+urban100,0.6,oracle,cfg6_alpha0,20,psnr/ssim/lpips,mse/false_edge_proxy/valid_edge_recall,p2w_urban100_full_v1_CROSS_tables.zip
+urban100,0.6,oracle,cfg6_alpha0.5,20,psnr/ssim/lpips,mse/false_edge_proxy/valid_edge_recall,p2w_urban100_full_v1_CROSS_tables.zip
+urban100,0.6,oracle,cfg6_alpha1,20,psnr/ssim/lpips,mse/false_edge_proxy/valid_edge_recall,p2w_urban100_full_v1_CROSS_tables.zip
+urban100,0.6,oracle,cleaner,20,psnr/ssim/lpips,mse/false_edge_proxy/valid_edge_recall,p2w_urban100_full_v1_CROSS_tables.zip
+urban100,0.6,restored,blend_cfg1_beta0.5,100,psnr/ssim/lpips,mse/false_edge_proxy/valid_edge_recall,p2w_urban100_full_v1_CROSS_tables.zip
+urban100,0.6,restored,blend_cfg6_beta0.5,100,psnr/ssim/lpips,mse/false_edge_proxy/valid_edge_recall,p2w_urban100_full_v1_CROSS_tables.zip
+urban100,0.6,restored,cfg1_alpha0,100,psnr/ssim/lpips,mse/false_edge_proxy/valid_edge_recall,p2w_urban100_full_v1_CROSS_tables.zip
+urban100,0.6,restored,cfg1_alpha0.5,100,psnr/ssim/lpips,mse/false_edge_proxy/valid_edge_recall,p2w_urban100_full_v1_CROSS_tables.zip
+urban100,0.6,restored,cfg1_alpha1,100,psnr/ssim/lpips,mse/false_edge_proxy/valid_edge_recall,p2w_urban100_full_v1_CROSS_tables.zip
+urban100,0.6,restored,cfg6_alpha0,100,psnr/ssim/lpips,mse/false_edge_proxy/valid_edge_recall,p2w_urban100_full_v1_CROSS_tables.zip
+urban100,0.6,restored,cfg6_alpha0.5,100,psnr/ssim/lpips,mse/false_edge_proxy/valid_edge_recall,p2w_urban100_full_v1_CROSS_tables.zip
+urban100,0.6,restored,cfg6_alpha1,100,psnr/ssim/lpips,mse/false_edge_proxy/valid_edge_recall,p2w_urban100_full_v1_CROSS_tables.zip
+urban100,0.6,restored,cleaner,100,psnr/ssim/lpips,mse/false_edge_proxy/valid_edge_recall,p2w_urban100_full_v1_CROSS_tables.zip
+urban100,0.6,deterministic,input/cleaner,100,psnr/ssim/lpips/dists,,p2input_all_full_v1_FOCUS_FINAL.zip
+urban100,0.6,deterministic cleaner sharpening,unsharp_a0.25_r0.8,100,psnr/ssim/lpips,,p2focus_urban100_full_v1_FOCUS_FINAL.zip
+urban100,0.6,deterministic cleaner sharpening,unsharp_a0.25_r1.5,100,psnr/ssim/lpips,,p2focus_urban100_full_v1_FOCUS_FINAL.zip
+urban100,0.6,deterministic cleaner sharpening,unsharp_a0.25_r2.5,100,psnr/ssim/lpips,,p2focus_urban100_full_v1_FOCUS_FINAL.zip
+urban100,0.6,deterministic cleaner sharpening,unsharp_a0.5_r0.8,100,psnr/ssim/lpips,,p2focus_urban100_full_v1_FOCUS_FINAL.zip
+urban100,0.6,deterministic cleaner sharpening,unsharp_a0.5_r1.5,100,psnr/ssim/lpips,,p2focus_urban100_full_v1_FOCUS_FINAL.zip
+urban100,0.6,deterministic cleaner sharpening,unsharp_a0.5_r2.5,100,psnr/ssim/lpips,,p2focus_urban100_full_v1_FOCUS_FINAL.zip
+urban100,0.6,deterministic cleaner sharpening,unsharp_a0.75_r0.8,100,psnr/ssim/lpips,,p2focus_urban100_full_v1_FOCUS_FINAL.zip
+urban100,0.6,deterministic cleaner sharpening,unsharp_a0.75_r1.5,100,psnr/ssim/lpips,,p2focus_urban100_full_v1_FOCUS_FINAL.zip
+urban100,0.6,deterministic cleaner sharpening,unsharp_a0.75_r2.5,100,psnr/ssim/lpips,,p2focus_urban100_full_v1_FOCUS_FINAL.zip
+urban100,0.6,deterministic cleaner sharpening,unsharp_a1.5_r0.8,100,psnr/ssim/lpips,,p2focus_urban100_full_v1_FOCUS_FINAL.zip
+urban100,0.6,deterministic cleaner sharpening,unsharp_a1.5_r1.5,100,psnr/ssim/lpips,,p2focus_urban100_full_v1_FOCUS_FINAL.zip
+urban100,0.6,deterministic cleaner sharpening,unsharp_a1.5_r2.5,100,psnr/ssim/lpips,,p2focus_urban100_full_v1_FOCUS_FINAL.zip
+urban100,0.6,deterministic cleaner sharpening,unsharp_a1_r0.8,100,psnr/ssim/lpips,,p2focus_urban100_full_v1_FOCUS_FINAL.zip
+urban100,0.6,deterministic cleaner sharpening,unsharp_a1_r1.5,100,psnr/ssim/lpips,,p2focus_urban100_full_v1_FOCUS_FINAL.zip
+urban100,0.6,deterministic cleaner sharpening,unsharp_a1_r2.5,100,psnr/ssim/lpips,,p2focus_urban100_full_v1_FOCUS_FINAL.zip
+imagenet,0.6,degraded,blend_cfg1_beta0.5,1000,psnr/ssim/lpips,mse/false_edge_proxy/valid_edge_recall,p2w_imagenet_full_v1_CROSS_tables.zip
+imagenet,0.6,degraded,blend_cfg6_beta0.5,1000,psnr/ssim/lpips,mse/false_edge_proxy/valid_edge_recall,p2w_imagenet_full_v1_CROSS_tables.zip
+imagenet,0.6,degraded,cfg1_alpha0,1000,psnr/ssim/lpips,mse/false_edge_proxy/valid_edge_recall,p2w_imagenet_full_v1_CROSS_tables.zip
+imagenet,0.6,degraded,cfg1_alpha0.5,1000,psnr/ssim/lpips,mse/false_edge_proxy/valid_edge_recall,p2w_imagenet_full_v1_CROSS_tables.zip
+imagenet,0.6,degraded,cfg1_alpha1,1000,psnr/ssim/lpips,mse/false_edge_proxy/valid_edge_recall,p2w_imagenet_full_v1_CROSS_tables.zip
+imagenet,0.6,degraded,cfg6_alpha0,1000,psnr/ssim/lpips,mse/false_edge_proxy/valid_edge_recall,p2w_imagenet_full_v1_CROSS_tables.zip
+imagenet,0.6,degraded,cfg6_alpha0.5,1000,psnr/ssim/lpips,mse/false_edge_proxy/valid_edge_recall,p2w_imagenet_full_v1_CROSS_tables.zip
+imagenet,0.6,degraded,cfg6_alpha1,1000,psnr/ssim/lpips,mse/false_edge_proxy/valid_edge_recall,p2w_imagenet_full_v1_CROSS_tables.zip
+imagenet,0.6,degraded,cleaner,1000,psnr/ssim/lpips,mse/false_edge_proxy/valid_edge_recall,p2w_imagenet_full_v1_CROSS_tables.zip
+imagenet,0.6,oracle,cfg1_alpha0,20,psnr/ssim/lpips,mse/false_edge_proxy/valid_edge_recall,p2w_imagenet_full_v1_CROSS_tables.zip
+imagenet,0.6,oracle,cfg1_alpha0.5,20,psnr/ssim/lpips,mse/false_edge_proxy/valid_edge_recall,p2w_imagenet_full_v1_CROSS_tables.zip
+imagenet,0.6,oracle,cfg1_alpha1,20,psnr/ssim/lpips,mse/false_edge_proxy/valid_edge_recall,p2w_imagenet_full_v1_CROSS_tables.zip
+imagenet,0.6,oracle,cfg6_alpha0,20,psnr/ssim/lpips,mse/false_edge_proxy/valid_edge_recall,p2w_imagenet_full_v1_CROSS_tables.zip
+imagenet,0.6,oracle,cfg6_alpha0.5,20,psnr/ssim/lpips,mse/false_edge_proxy/valid_edge_recall,p2w_imagenet_full_v1_CROSS_tables.zip
+imagenet,0.6,oracle,cfg6_alpha1,20,psnr/ssim/lpips,mse/false_edge_proxy/valid_edge_recall,p2w_imagenet_full_v1_CROSS_tables.zip
+imagenet,0.6,oracle,cleaner,20,psnr/ssim/lpips,mse/false_edge_proxy/valid_edge_recall,p2w_imagenet_full_v1_CROSS_tables.zip
+imagenet,0.6,restored,blend_cfg1_beta0.5,1000,psnr/ssim/lpips,mse/false_edge_proxy/valid_edge_recall,p2w_imagenet_full_v1_CROSS_tables.zip
+imagenet,0.6,restored,blend_cfg6_beta0.5,1000,psnr/ssim/lpips,mse/false_edge_proxy/valid_edge_recall,p2w_imagenet_full_v1_CROSS_tables.zip
+imagenet,0.6,restored,cfg1_alpha0,1000,psnr/ssim/lpips,mse/false_edge_proxy/valid_edge_recall,p2w_imagenet_full_v1_CROSS_tables.zip
+imagenet,0.6,restored,cfg1_alpha0.5,1000,psnr/ssim/lpips,mse/false_edge_proxy/valid_edge_recall,p2w_imagenet_full_v1_CROSS_tables.zip
+imagenet,0.6,restored,cfg1_alpha1,1000,psnr/ssim/lpips,mse/false_edge_proxy/valid_edge_recall,p2w_imagenet_full_v1_CROSS_tables.zip
+imagenet,0.6,restored,cfg6_alpha0,1000,psnr/ssim/lpips,mse/false_edge_proxy/valid_edge_recall,p2w_imagenet_full_v1_CROSS_tables.zip
+imagenet,0.6,restored,cfg6_alpha0.5,1000,psnr/ssim/lpips,mse/false_edge_proxy/valid_edge_recall,p2w_imagenet_full_v1_CROSS_tables.zip
+imagenet,0.6,restored,cfg6_alpha1,1000,psnr/ssim/lpips,mse/false_edge_proxy/valid_edge_recall,p2w_imagenet_full_v1_CROSS_tables.zip
+imagenet,0.6,restored,cleaner,1000,psnr/ssim/lpips,mse/false_edge_proxy/valid_edge_recall,p2w_imagenet_full_v1_CROSS_tables.zip
+imagenet,0.6,deterministic,input/cleaner,1000,psnr/ssim/lpips/dists,,p2input_all_full_v1_FOCUS_FINAL.zip
+imagenet,0.6,deterministic cleaner sharpening,unsharp_a0.25_r0.8,1000,psnr/ssim/lpips,,p2focus_imagenet_full_v3_FOCUS_FINAL.zip
+imagenet,0.6,deterministic cleaner sharpening,unsharp_a0.25_r1.5,1000,psnr/ssim/lpips,,p2focus_imagenet_full_v3_FOCUS_FINAL.zip
+imagenet,0.6,deterministic cleaner sharpening,unsharp_a0.25_r2.5,1000,psnr/ssim/lpips,,p2focus_imagenet_full_v3_FOCUS_FINAL.zip
+imagenet,0.6,deterministic cleaner sharpening,unsharp_a0.5_r0.8,1000,psnr/ssim/lpips,,p2focus_imagenet_full_v3_FOCUS_FINAL.zip
+imagenet,0.6,deterministic cleaner sharpening,unsharp_a0.5_r1.5,1000,psnr/ssim/lpips,,p2focus_imagenet_full_v3_FOCUS_FINAL.zip
+imagenet,0.6,deterministic cleaner sharpening,unsharp_a0.5_r2.5,1000,psnr/ssim/lpips,,p2focus_imagenet_full_v3_FOCUS_FINAL.zip
+imagenet,0.6,deterministic cleaner sharpening,unsharp_a0.75_r0.8,1000,psnr/ssim/lpips,,p2focus_imagenet_full_v3_FOCUS_FINAL.zip
+imagenet,0.6,deterministic cleaner sharpening,unsharp_a0.75_r1.5,1000,psnr/ssim/lpips,,p2focus_imagenet_full_v3_FOCUS_FINAL.zip
+imagenet,0.6,deterministic cleaner sharpening,unsharp_a0.75_r2.5,1000,psnr/ssim/lpips,,p2focus_imagenet_full_v3_FOCUS_FINAL.zip
+imagenet,0.6,deterministic cleaner sharpening,unsharp_a1.5_r0.8,1000,psnr/ssim/lpips,,p2focus_imagenet_full_v3_FOCUS_FINAL.zip
+imagenet,0.6,deterministic cleaner sharpening,unsharp_a1.5_r1.5,1000,psnr/ssim/lpips,,p2focus_imagenet_full_v3_FOCUS_FINAL.zip
+imagenet,0.6,deterministic cleaner sharpening,unsharp_a1.5_r2.5,1000,psnr/ssim/lpips,,p2focus_imagenet_full_v3_FOCUS_FINAL.zip
+imagenet,0.6,deterministic cleaner sharpening,unsharp_a1_r0.8,1000,psnr/ssim/lpips,,p2focus_imagenet_full_v3_FOCUS_FINAL.zip
+imagenet,0.6,deterministic cleaner sharpening,unsharp_a1_r1.5,1000,psnr/ssim/lpips,,p2focus_imagenet_full_v3_FOCUS_FINAL.zip
+imagenet,0.6,deterministic cleaner sharpening,unsharp_a1_r2.5,1000,psnr/ssim/lpips,,p2focus_imagenet_full_v3_FOCUS_FINAL.zip
+div2k,0.6,restored,blend1,99,psnr/ssim/lpips/dists,,p2review_div2k_severity_dists_full_v1_FOCUS_FINAL.zip
+div2k,0.6,restored,cfg1_full,99,psnr/ssim/lpips/dists,,p2review_div2k_severity_dists_full_v1_FOCUS_FINAL.zip
+div2k,0.6,restored,cfg1_raw,99,psnr/ssim/lpips/dists,,p2review_div2k_severity_dists_full_v1_FOCUS_FINAL.zip
+div2k,0.6,restored,cfg6_full,99,psnr/ssim/lpips/dists,,p2review_div2k_severity_dists_full_v1_FOCUS_FINAL.zip
+div2k,0.6,restored,cfg6_raw,99,psnr/ssim/lpips/dists,,p2review_div2k_severity_dists_full_v1_FOCUS_FINAL.zip
+div2k,0.6,deterministic,cleaner,99,psnr/ssim/lpips/dists,,p2review_div2k_severity_dists_full_v1_FOCUS_FINAL.zip
+div2k,0.6,deterministic,input,99,psnr/ssim/lpips/dists,,p2review_div2k_severity_dists_full_v1_FOCUS_FINAL.zip
+div2k,0.6,deterministic,sharpen,99,psnr/ssim/lpips/dists,,p2review_div2k_severity_dists_full_v1_FOCUS_FINAL.zip
+div2k,1.2,restored,blend1,99,psnr/ssim/lpips/dists,,p2review_div2k_severity_dists_full_v1_FOCUS_FINAL.zip
+div2k,1.2,restored,cfg1_full,99,psnr/ssim/lpips/dists,,p2review_div2k_severity_dists_full_v1_FOCUS_FINAL.zip
+div2k,1.2,restored,cfg1_raw,99,psnr/ssim/lpips/dists,,p2review_div2k_severity_dists_full_v1_FOCUS_FINAL.zip
+div2k,1.2,restored,cfg6_full,99,psnr/ssim/lpips/dists,,p2review_div2k_severity_dists_full_v1_FOCUS_FINAL.zip
+div2k,1.2,restored,cfg6_raw,99,psnr/ssim/lpips/dists,,p2review_div2k_severity_dists_full_v1_FOCUS_FINAL.zip
+div2k,1.2,deterministic,cleaner,99,psnr/ssim/lpips/dists,,p2review_div2k_severity_dists_full_v1_FOCUS_FINAL.zip
+div2k,1.2,deterministic,input,99,psnr/ssim/lpips/dists,,p2review_div2k_severity_dists_full_v1_FOCUS_FINAL.zip
+div2k,1.2,deterministic,sharpen,99,psnr/ssim/lpips/dists,,p2review_div2k_severity_dists_full_v1_FOCUS_FINAL.zip
+div2k,3.0,restored,blend1,99,psnr/ssim/lpips/dists,,p2review_div2k_sigma3_full_v1_FOCUS_FINAL.zip
+div2k,3.0,restored,cfg1_full,99,psnr/ssim/lpips/dists,,p2review_div2k_sigma3_full_v1_FOCUS_FINAL.zip
+div2k,3.0,restored,cfg1_raw,99,psnr/ssim/lpips/dists,,p2review_div2k_sigma3_full_v1_FOCUS_FINAL.zip
+div2k,3.0,restored,cfg6_full,99,psnr/ssim/lpips/dists,,p2review_div2k_sigma3_full_v1_FOCUS_FINAL.zip
+div2k,3.0,restored,cfg6_raw,99,psnr/ssim/lpips/dists,,p2review_div2k_sigma3_full_v1_FOCUS_FINAL.zip
+div2k,3.0,deterministic,cleaner,99,psnr/ssim/lpips/dists,,p2review_div2k_sigma3_full_v1_FOCUS_FINAL.zip
+div2k,3.0,deterministic,input,99,psnr/ssim/lpips/dists,,p2review_div2k_sigma3_full_v1_FOCUS_FINAL.zip
+div2k,3.0,deterministic,sharpen,99,psnr/ssim/lpips/dists,,p2review_div2k_sigma3_full_v1_FOCUS_FINAL.zip
