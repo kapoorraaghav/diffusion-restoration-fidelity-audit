@@ -1,0 +1,8 @@
+{
+  "frozen_subset_sha256": "45fe90420d1b11c9deaf12f1d98d80de26e97fa69ddf3783b6f601a3376d2ef5",
+  "code_sha256": "5000c53178c500dc1382c9f1e48f0877d740fe3ec1ef66677be7588f01871409",
+  "full_calls": 1800,
+  "full_rows": 5400,
+  "smoke_calls": 36,
+  "smoke_rows": 108
+}
