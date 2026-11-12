@@ -1,0 +1,9 @@
+{
+  "completed": true,
+  "smoke": false,
+  "completed_sources": 99,
+  "total_sources": 99,
+  "sampling_calls": 594,
+  "metric_rows": 1782,
+  "elapsed_seconds": 469.40919994899997
+}
