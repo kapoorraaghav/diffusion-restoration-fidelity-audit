@@ -1,0 +1,17 @@
+{
+  "manuscript_sha256": "401b26b33a74e66be95561b60e783b3b930aa67d0309936484d526df3b6b08b9",
+  "input_parity_max_error": 7.105427357601002e-15,
+  "archives": {
+    "<LOCAL_HOME>\\Downloads\\p2input_all_full_v1_FOCUS_FINAL.zip": "ad13d01aa099ffe4c42cc782833261012e0e944fe08ba7551d9fb1975df67e52",
+    "<LOCAL_HOME>\\Desktop\\coding\\research\\cnn-error-propogation-in-diffusion-models\\work\\consolidation_reproduction_check\\source_tables\\p2w_ffhq_full_v1_CROSS_tables.zip": "3a3e54dcc8c8ccc4892a840324e2afbabc0489c9617f9c9147ff227c5957e012",
+    "<LOCAL_HOME>\\Downloads\\p2focus_sharpen_final_ffhq_full_v1_FOCUS_FINAL.zip": "d2a748740915931e01cc0ca64f2c02d6bcd0b80d900d0c0c6f356732d8514ef3",
+    "<LOCAL_HOME>\\Desktop\\coding\\research\\cnn-error-propogation-in-diffusion-models\\work\\consolidation_reproduction_check\\source_tables\\p2w_div2k_full_v1_CROSS_tables.zip": "b19bd669fc4d270bd897809975459cb1e44abeba980614e784f691dca95efd25",
+    "<LOCAL_HOME>\\Downloads\\p2focus_div2k_full_v1_FOCUS_FINAL.zip": "40710f1c4ea5c19ed571596311aa1e41125ae6b4ed6e7675b75306cf6c3bed21",
+    "<LOCAL_HOME>\\Desktop\\coding\\research\\cnn-error-propogation-in-diffusion-models\\work\\consolidation_reproduction_check\\source_tables\\p2w_urban100_full_v1_CROSS_tables.zip": "1359d02a005681d1d1fcb09c73e2b6470e4057ce77686b4f9d3127025c2a5a09",
+    "<LOCAL_HOME>\\Downloads\\p2focus_urban100_full_v1_FOCUS_FINAL.zip": "c7f11045cc7212745201974ee57ee105a73993047ec376d344f90db5908ed64c",
+    "<LOCAL_HOME>\\Desktop\\coding\\research\\cnn-error-propogation-in-diffusion-models\\work\\consolidation_reproduction_check\\source_tables\\p2w_imagenet_full_v1_CROSS_tables.zip": "d07a581390e623a9e72d52f4f95e943e05adf6286ae2da79772444539fe2835f",
+    "<LOCAL_HOME>\\Downloads\\p2focus_imagenet_full_v3_FOCUS_FINAL.zip": "6018152f5550ed187c177d7a2b4831b6bd131dbcf0c39734a6e9ba373d12e435",
+    "<LOCAL_HOME>\\Desktop\\coding\\research\\cnn-error-propogation-in-diffusion-models\\followup_v9\\returned_archives\\p2review_div2k_severity_dists_full_v1_FOCUS_FINAL.zip": "6addf1bbd5ff1123250af5764410ceef01d9899e3a093e3bb3269808996e889e",
+    "<LOCAL_HOME>\\Desktop\\coding\\research\\cnn-error-propogation-in-diffusion-models\\followup_v9\\div2k_sigma3\\p2review_div2k_sigma3_full_v1_FOCUS_FINAL.zip": "ecdc1559285f2929e99783595018951d460957841c175758d095d2d88d55edad"
+  }
+}
