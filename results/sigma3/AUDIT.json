@@ -1,0 +1,9 @@
+{
+  "sources": 99,
+  "calls": 594,
+  "rows": 1782,
+  "archive_sha256": "ecdc1559285f2929e99783595018951d460957841c175758d095d2d88d55edad",
+  "max_cleaner_parity_error": 7.105427357601002e-15,
+  "median_cleaner_mae_3_vs_1_2": 0.012560561299324036,
+  "runtime_match": true
+}
