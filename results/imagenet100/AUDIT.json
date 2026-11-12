@@ -1,0 +1,10 @@
+{
+  "archive": "p2review_imagenet100_severity_full_v1_FOCUS_FINAL.zip",
+  "sha256": "425ac80fdbc395f43180c51884f9de72966840d2e8164583a1f8e8ec82746177",
+  "sources": 100,
+  "calls": 1800,
+  "rows": 5400,
+  "frozen_manifest_verified": true,
+  "matched_protocol_verified": true,
+  "mild_input_cleaner_max_score_difference": 0
+}
