@@ -1,0 +1,11 @@
+{
+  "objective": "minimize squared reblur residual plus lambda times squared distance to blurred input",
+  "sigma": [0.6, 1.2, 3.0],
+  "regularization_grid": [0.00001, 0.0001, 0.001, 0.01, 0.1],
+  "selection": "one lambda per severity, highest mean full-crop clipped PSNR on the 50 frozen DIV2K development images, exact tie favors larger lambda",
+  "reference": "original SHA256, source dimensions, crop and 512-pixel RGB LANCZOS as archived; verify decoded pixels against all 20 retained development previews and input score parity on all evaluation images",
+  "boundary": "exact separable reflection, without repeating the edge pixel, radius ceil(3*sigma)",
+  "scoring": "RGB float32 clipped to [0,1]; full crop for all four metrics; report border and interior MSE separately",
+  "parity_tolerance": {"psnr": 0.0002, "ssim": 0.00002, "lpips": 0.00002, "dists": 0.00002},
+  "privileged_information": "true Gaussian kernel and severity; no test reference is used by the inverse"
+}
