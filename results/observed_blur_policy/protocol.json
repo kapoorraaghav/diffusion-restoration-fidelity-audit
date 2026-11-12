@@ -1,0 +1,12 @@
+{
+  "development": "50 frozen Study B DIV2K development images, each at sigma 0.6, 1.2, and 3.0",
+  "estimator": "RGB channel mean followed by the sum of mean squared horizontal and vertical second differences divided by the sum of mean squared first differences plus 1e-12; lower means smoother",
+  "thresholds": "always pass, always clean, and empirical development proxy quantiles 0.05, 0.10, ..., 0.95 (NumPy linear quantiles); clean strictly below the threshold",
+  "privileged_thresholds": "always pass, clean at sigma >= 3.0, clean at sigma >= 1.2, always clean",
+  "objective": "maximize mean input-minus-policy LPIPS over all 150 equally weighted development source-severity pairs",
+  "constraint": "at most 5% of development source-severity pairs may lose more than 1 dB PSNR relative to input",
+  "justification": "1 dB corresponds to about 26% more squared error. The 5% budget limits sizeable errors while allowing a small tail in this exploratory audit. This is an engineering trade-off.",
+  "ties": "maximize LPIPS improvement, then minimize serious-harm count, then minimize number cleaned, then take earlier grid entry",
+  "transfer": "apply both frozen rules without refitting on 99 DIV2K and the frozen 100 ImageNet IDs; report each severity and domain separately",
+  "information": "the proxy uses the observation only. True synthetic sigma is privileged. Clean references are used for development selection and final scoring only"
+}
