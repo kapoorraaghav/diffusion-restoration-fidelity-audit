@@ -1,0 +1,10 @@
+{
+  "rules": {
+    "image_only": 0.25867776335705256,
+    "privileged_sigma": 3.0
+  },
+  "protocol_sha256": "2c95a0187802b531170350e17067fc4185daf00cbb77396b8db668865ee91aca",
+  "development_scores_sha256": "5c6d55862c0eec0c85ced93b38fd8eac1a0a3081b161bd321a3956fc6c687798",
+  "source_count": 50,
+  "score_count": 150
+}
