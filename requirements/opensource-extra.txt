@@ -1,0 +1,6 @@
+# Project-environment additions; CUDA torch is inherited from ncl_sae.
+ftfy==6.3.1
+regex==2026.9.29
+gdown==6.4.2
+torchsde==0.2.6
+trampoline==0.1.2
