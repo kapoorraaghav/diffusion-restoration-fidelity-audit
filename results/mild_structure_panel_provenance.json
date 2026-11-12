@@ -1,0 +1,204 @@
+[
+  {
+    "source_id": "div2k_0842",
+    "sigma": 0.6,
+    "crop": [
+      150,
+      30,
+      430,
+      310
+    ],
+    "seed": 11,
+    "assets": [
+      {
+        "source_id": "div2k_0842",
+        "domain": "div2k",
+        "case_id": "R075",
+        "method": "reference",
+        "seed": 11,
+        "file": "assets/R075_reference.png",
+        "sha256": "53db2775833237d7024fa92f366b25fac8acccc7d991687fb850e5f4b44b1463",
+        "crop": [
+          150,
+          30,
+          430,
+          310
+        ]
+      },
+      {
+        "source_id": "div2k_0842",
+        "domain": "div2k",
+        "case_id": "R075",
+        "method": "cleaner",
+        "seed": 11,
+        "file": "assets/R075_A.png",
+        "sha256": "4189c98a454e3051c1e52247b9deec332dc41e2e73d121e3011ecaf240f1b15e",
+        "crop": [
+          150,
+          30,
+          430,
+          310
+        ]
+      },
+      {
+        "source_id": "div2k_0842",
+        "domain": "div2k",
+        "case_id": "R075",
+        "method": "default_cfg6_full",
+        "seed": 11,
+        "file": "assets/R075_D.png",
+        "sha256": "a0e30023d5b002409dbebb82f9f75225cca8615b6428406126fe13b8b3f66b4b",
+        "crop": [
+          150,
+          30,
+          430,
+          310
+        ]
+      },
+      {
+        "source_id": "div2k_0842",
+        "domain": "div2k",
+        "case_id": "R075",
+        "method": "selected_cfg1_full",
+        "seed": 11,
+        "file": "assets/R075_B.png",
+        "sha256": "c954583350367e90073713e9642170b3e541d308515bbbbaa2bfa710d6990dc6",
+        "crop": [
+          150,
+          30,
+          430,
+          310
+        ]
+      },
+      {
+        "source_id": "div2k_0842",
+        "domain": "div2k",
+        "case_id": "R075",
+        "method": "blend_cfg1_half",
+        "seed": 11,
+        "file": "assets/R075_C.png",
+        "sha256": "5462934465a70682402556b061346fea725d372aa507b499455540d53d62bdf5",
+        "crop": [
+          150,
+          30,
+          430,
+          310
+        ]
+      }
+    ],
+    "observation": "outputs\\Paper2_Visual_Review\\Reviewer_Kit\\assets\\R075_observation.png",
+    "observation_sha256": "e3a16fc8d7e1d68a671259efc325b5d784f7f7371a7eaeb0345139d6e0c1c680",
+    "max_png_level_difference": 1,
+    "input_score_parity": {
+      "psnr": {
+        "recomputed": 33.830427299337614,
+        "archived": 33.83042943668611
+      },
+      "ssim": {
+        "recomputed": 0.9597685933113098,
+        "archived": 0.9597681760787964
+      }
+    }
+  },
+  {
+    "source_id": "imagenet_00001038",
+    "sigma": 0.6,
+    "crop": [
+      210,
+      215,
+      480,
+      485
+    ],
+    "seed": 11,
+    "assets": [
+      {
+        "source_id": "imagenet_00001038",
+        "domain": "imagenet",
+        "case_id": "R058",
+        "method": "reference",
+        "seed": 11,
+        "file": "assets/R058_reference.png",
+        "sha256": "32aada9ff9078d9472747023c75fb668bccc11192330d6dbe5d476e9c4a4d071",
+        "crop": [
+          210,
+          215,
+          480,
+          485
+        ]
+      },
+      {
+        "source_id": "imagenet_00001038",
+        "domain": "imagenet",
+        "case_id": "R058",
+        "method": "cleaner",
+        "seed": 11,
+        "file": "assets/R058_C.png",
+        "sha256": "4f1e0a3a0a71ca1e307e2f55f9e25047437f5815f153ecd93e3fcc6f6305bed6",
+        "crop": [
+          210,
+          215,
+          480,
+          485
+        ]
+      },
+      {
+        "source_id": "imagenet_00001038",
+        "domain": "imagenet",
+        "case_id": "R058",
+        "method": "default_cfg6_full",
+        "seed": 11,
+        "file": "assets/R058_D.png",
+        "sha256": "af3e5b1e7297061e8c9539745e651618a01ae4438fee3c6bfe2ad592d4267087",
+        "crop": [
+          210,
+          215,
+          480,
+          485
+        ]
+      },
+      {
+        "source_id": "imagenet_00001038",
+        "domain": "imagenet",
+        "case_id": "R058",
+        "method": "selected_cfg1_full",
+        "seed": 11,
+        "file": "assets/R058_A.png",
+        "sha256": "599f07d131d1413e34e42896c4af4b261f27c6b26de16db456b1915d7cbcadaf",
+        "crop": [
+          210,
+          215,
+          480,
+          485
+        ]
+      },
+      {
+        "source_id": "imagenet_00001038",
+        "domain": "imagenet",
+        "case_id": "R058",
+        "method": "blend_cfg1_half",
+        "seed": 11,
+        "file": "assets/R058_B.png",
+        "sha256": "afb0a1611fd2978520cbaa42adb3af1cc10efd3f288a644c7a0e5569eaf3178b",
+        "crop": [
+          210,
+          215,
+          480,
+          485
+        ]
+      }
+    ],
+    "observation": "outputs\\Paper2_Visual_Review\\Reviewer_Kit\\assets\\R058_observation.png",
+    "observation_sha256": "39fcdf9254380bdba75b6386f31036b25107e45633aedb3e2b36c9d825ab3fa1",
+    "max_png_level_difference": 1,
+    "input_score_parity": {
+      "psnr": {
+        "recomputed": 37.92450725247932,
+        "archived": 37.92451038753556
+      },
+      "ssim": {
+        "recomputed": 0.9638959169387817,
+        "archived": 0.9638954997062684
+      }
+    }
+  }
+]
