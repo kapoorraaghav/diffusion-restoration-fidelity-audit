@@ -1,0 +1,18 @@
+{
+  "passed": true,
+  "archive_sha256": "ad13d01aa099ffe4c42cc782833261012e0e944fe08ba7551d9fb1975df67e52",
+  "sources": 1399,
+  "domain_counts": {
+    "div2k": 99,
+    "ffhq": 200,
+    "imagenet": 1000,
+    "urban100": 100
+  },
+  "metric_rows": 2798,
+  "sampling_calls": 0,
+  "maximum_cleaner_parity_error": 7.105427357601002e-15,
+  "record_checksums_verified": 1399,
+  "independently_recomputed_effects": 52,
+  "maximum_effect_tolerance": 1e-12,
+  "archived_seed_mean_comparisons_verified": true
+}
